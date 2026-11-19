@@ -15,7 +15,7 @@
 - [x] Crear el header.
 - [x] Crear el footer.
 - [x] Crear el componente de noticias.
-- [ ] Crear el componente de equipos.
+- [x] Crear el componente de equipos.
 - [ ] Crear el componente de jugadores.
 - [ ] Crear el componente de clasificaciones.
 - [ ] Crear el componente de árbitros.
@@ -70,8 +70,11 @@
 
 ## Evidencias guardadas
 
-- [ ] Captura de la estructura del proyecto.
-- [ ] Captura del inicio.
+- [x] Captura de la estructura del proyecto.
+- [x] Captura del inicio.
+- [x] Captura de equipos en escritorio.
+- [x] Captura de equipos en móvil.
+- [x] Captura de la página inicial en móvil.
 - [ ] Captura del login.
 - [ ] Captura del registro.
 - [ ] Captura de la página de administrador.

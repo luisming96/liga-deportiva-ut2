@@ -12,6 +12,8 @@ funcionalidades:
 - `shared/components/navbar`: barra de navegación reutilizada en la aplicación.
 - `shared/components/footer`: pie de página reutilizado en la aplicación.
 - `features/home/pages/home-page`: página principal adaptada de la U1.
+- `features/equipos/pages/equipos-page`: componentes adaptado desde la página
+  de equipos de la U1.
 
 El proyecto también incluye una carpeta `documentacion` para guardar el
 checklist, la memoria y las capturas.
@@ -24,6 +26,8 @@ Del proyecto anterior se ha adaptado la estructura de la liga:
 - El pie de página se ha convertido en `Footer`.
 - La presentación principal y las competiciones se han colocado en
   `HomePage`.
+- Los equipos se muestran mediante el componente `EquiposPage`. Sus datos están
+  definidos temporalmente en TypeScript y se muestran con `@for`.
 
 El diseño mantiene el color azul de la liga y los enlaces usados en la U1.
 Las rutas todavía no llevan a todas las páginas hasta que se creen sus
@@ -39,6 +43,8 @@ Las siguientes capturas corresponden al estado actual:
 - `03-navbar-footer-inicio.png`: versión de escritorio.
 - `17-responsive-movil.png`: versión móvil.
 - `02-estructura-proyecto.png`: estructura de componentes creada.
+- `04a-equipos-escritorio.png`: listado de equipos en escritorio.
+- `04-equipos-movil.png`: listado de equipos en móvil.
 
 ## 4. Login y registro
 

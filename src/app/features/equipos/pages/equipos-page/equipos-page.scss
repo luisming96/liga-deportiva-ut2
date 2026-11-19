@@ -1,0 +1,13 @@
+.cabecera-pagina {
+  background-color: #0b3d91;
+  color: white;
+  padding: 35px 0;
+}
+
+.card-hover {
+  transition: 0.2s;
+}
+
+.card-hover:hover {
+  transform: translateY(-4px);
+}

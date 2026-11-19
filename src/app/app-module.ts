@@ -6,13 +6,17 @@ import { App } from './app';
 import { Navbar } from './shared/components/navbar/navbar';
 import { HomePage } from './features/home/pages/home-page/home-page';
 import { Footer } from './shared/components/footer/footer';
+import { EquiposPage } from './features/equipos/pages/equipos-page/equipos-page';
+import { JugadoresPage } from './features/jugadores/pages/jugadores-page/jugadores-page';
 
 @NgModule({
   declarations: [
     App,
     Navbar,
     HomePage,
-    Footer
+    Footer,
+    EquiposPage,
+    JugadoresPage
   ],
   imports: [
     BrowserModule,
