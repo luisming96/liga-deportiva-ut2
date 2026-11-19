@@ -1,5 +1,8 @@
 # Memoria del Proyecto Entregable UT2
 
+Este documento irá creciendo con las decisiones y explicaciones del proyecto
+durante su desarrollo.
+
 ## 1. Estructura del proyecto
 
 Pendiente de completar.
