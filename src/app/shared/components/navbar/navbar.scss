@@ -1,0 +1,16 @@
+:host {
+  display: block;
+}
+
+.navbar-liga {
+  background-color: #0b3d91;
+}
+
+.navbar-brand {
+  white-space: normal;
+}
+
+.navbar-liga .nav-link.active {
+  color: #ffc107;
+  font-weight: bold;
+}

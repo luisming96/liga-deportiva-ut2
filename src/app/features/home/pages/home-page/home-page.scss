@@ -1,0 +1,49 @@
+:host {
+  display: block;
+  flex: 1;
+}
+
+.hero {
+  background-color: #0b3d91;
+  color: white;
+  text-align: center;
+}
+
+.hero h1 {
+  animation: aparecer 1s;
+}
+
+.carousel-noticia {
+  background-color: #0b3d91;
+  color: white;
+  min-height: 220px;
+  padding: 50px;
+}
+
+.card-hover {
+  transition: 0.2s;
+}
+
+.card-hover:hover {
+  transform: translateY(-4px);
+}
+
+@keyframes aparecer {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@media (max-width: 576px) {
+  .hero h1 {
+    font-size: 1.8rem;
+  }
+
+  .carousel-noticia {
+    min-height: 180px;
+    padding: 25px;
+  }
+}

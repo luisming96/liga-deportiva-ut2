@@ -2,25 +2,25 @@
 
 ## Repositorio y preparación
 
-- [ ] Crear un repositorio privado en GitHub.
+- [x] Crear un repositorio público en GitHub.
 - [ ] Trabajar con commits durante el desarrollo.
-- [ ] Crear el proyecto Angular desde la terminal.
+- [x] Crear el proyecto Angular desde la terminal.
 - [ ] Mantener el proyecto original de la U1 como referencia.
 
 ## Parte I - Estructura del proyecto (20 %)
 
-- [ ] Crear la estructura Angular del proyecto.
-- [ ] Agrupar los componentes en sus carpetas correspondientes.
+- [x] Crear la estructura Angular del proyecto.
+- [x] Agrupar los componentes en sus carpetas correspondientes.
 - [ ] Preparar los servicios y módulos para la parte servidora.
-- [ ] Crear el header.
-- [ ] Crear el footer.
-- [ ] Crear el componente de noticias.
+- [x] Crear el header.
+- [x] Crear el footer.
+- [x] Crear el componente de noticias.
 - [ ] Crear el componente de equipos.
 - [ ] Crear el componente de jugadores.
 - [ ] Crear el componente de clasificaciones.
 - [ ] Crear el componente de árbitros.
 - [ ] Adaptar el código de la U1 a componentes Angular.
-- [ ] Comprobar que la página es responsive, al menos en móvil.
+- [x] Comprobar que la página es responsive, al menos en móvil.
 
 ## Parte II - Componentes y base de datos (80 %)
 
@@ -60,7 +60,7 @@
 
 - [ ] Entregar el código fuente.
 - [ ] Preparar el documento PDF explicativo.
-- [ ] Incluir una captura de la estructura de directorios y archivos.
+- [x] Incluir una captura de la estructura de directorios y archivos.
 - [ ] Incluir capturas de los componentes empleados.
 - [ ] Incluir capturas de la responsividad del sitio.
 - [ ] Explicar la configuración de MongoDB.
